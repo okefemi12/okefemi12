@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**okefemi12/okefemi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oke Precious Oluwanifemi a Computer Science student passionate about Machine Learning and Mobile App Development (Flutter). I love building real-world projects that combine smart AI with smooth user experiences.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- 🌐 Flutter & Dart
+- 🧠 Python & Machine Learning
+- ☁️ Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📚 Projects
+- 📱 FlutterExpense Manager App
+- 🧪 ML Projects – KMeans Clustering, Predicted Medical Insurance With Supervise Machine Learning
+
+### 🔗 Let's Connect
+- 📧 oke03940@gmail.com
