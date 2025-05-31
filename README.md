@@ -10,7 +10,8 @@ I'm Oke Precious Oluwanifemi a Computer Science student passionate about Machine
 
 ### 📚 Projects
 - 📱 FlutterExpense Manager App
-- 🧪 ML Projects – KMeans Clustering, Predicted Medical Insurance With Supervised Machine Learning,Dimensionality Reduction for Facial Image Compression and Recognition
+- 🧪 ML Projects – KMeans Clustering, Predicted Medical Insurance With Supervised Machine Learning,
+- Built A Dimensionality Reduction for Facial Image Compression and Recognition with (PCA,KPCA,NMF) Unsupervised Machine learning
 
 ### 🔗 Let's Connect
 - 📧 oke03940@gmail.com
