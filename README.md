@@ -8,7 +8,7 @@ I’m passionate about building **AI-powered applications** that solve real-worl
 
 ## 🚀 Skills
 - **Languages & Frameworks:** Python, Flutter, Dart  
-- **Machine Learning & AI:** Deep Learning, NLP, LangChain, Hugging Face, TensorFlow, PyTorch  
+- **Machine Learning & AI:** Deep Learning, NLP, LangChain, Hugging Face, TensorFlow, PyTorch, Computervision 
 - **Mobile & Backend:** Firebase, Flask, REST APIs  
 - **Tools & Platforms:** Docker, GitHub Actions, Git, Jupyter  
 
@@ -16,7 +16,7 @@ I’m passionate about building **AI-powered applications** that solve real-worl
 
 ## 📚 Featured Projects
 - 🩺 **Medical Chatbot** – Flask + LangChain + Hugging Face LLM + FAISS, containerized with Docker and CI/CD via GitHub Actions.  
-- 🛒 **E-Commerce App** – Flutter app with Stripe payments, Firestore integration, and chat support.  
+- 🩻 **Hybrid Recommender System** –Built a BERT4Rec + content-based recommender for e-commerce.
 - 📊 **ML Models** – Built projects on KMeans Clustering, Medical Insurance Prediction, and Dimensionality Reduction (PCA, KPCA, NMF).  
 - 📱 **Flutter Expense Manager** – Personal finance tracking app with Firebase backend.  
 
