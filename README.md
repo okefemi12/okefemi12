@@ -31,7 +31,7 @@ I’m passionate about building **AI-powered applications** that solve real-worl
 
 ## 🔗 Connect with Me
 - 📧 Email: **oke03940@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-link-here](https://linkedin.com/in/oluwanifemi-precious-oke-135623321/)  
+- 💼 LinkedIn: [linkedin.com/in/your-oke-femi](https://linkedin.com/in/oluwanifemi-precious-oke-135623321/)  
 
 
 ---
