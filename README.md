@@ -92,6 +92,7 @@ Hugging Face Profile: https://huggingface.co/oke39
 - LinkedIn: https://www.linkedin.com/in/oluwanifemi-precious-oke-135623321/
 - GitHub: https://github.com/okefemi12
 - Kaggle: https://www.kaggle.com/okeoluwanifemi
+- Portfolio : https://my-portfolio-phi-one-10.vercel.app/
 
 ---
 
