@@ -1,7 +1,6 @@
 # Hi, I'm Oke Precious Oluwanifemi
 
-Final-year Computer Science student at Babcock University  
-Machine Learning Engineer focused on production-ready AI systems
+ Machine Learning Engineer focused on production-ready AI systems
 
 I design and deploy end-to-end machine learning systems, covering data processing, model development, API serving, deployment, and monitoring. My work emphasizes scalability, explainability, and real-world impact.
 
