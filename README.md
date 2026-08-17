@@ -18,6 +18,7 @@ I design and deploy end-to-end machine learning systems, covering data processin
 ![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-Backend-000000?logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-blueviolet)
 ![Vector DB](https://img.shields.io/badge/Databases-Pinecone%20%7C%20Firestore-lightgrey)
 
@@ -41,8 +42,9 @@ I design and deploy end-to-end machine learning systems, covering data processin
 ---
 
 ### Multi-Model AI E-Commerce Recommender System  
-**Hybrid Reinforcement Learning | Transformers | FastAPI | Docker | MLflow**  
-* Production-grade recommendation engine optimizing long-term user value through a multi-stage pipeline combining collaborative filtering, content-based models, sequential transformers, and a reinforcement learning decision layer.  
+**Hybrid Reinforcement Learning | Transformers | FastAPI | Docker | MLflow | GitHub Actions**  
+* Production-grade recommendation engine optimizing long-term user value through a multi-stage pipeline combining collaborative filtering, content-based models, sequential transformers, and a reinforcement learning decision layer.
+* Implemented robust MLOps practices, utilizing Docker for containerization and GitHub Actions for automated CI/CD workflows.  
 🔗 **[GitHub Repo](https://github.com/okefemi12/ecommerce-recommender-system)** | 🔗 **[Live Demo](https://hybrid-rec.vercel.app/)**
 
 ---
@@ -56,8 +58,17 @@ I design and deploy end-to-end machine learning systems, covering data processin
 
 ## 🔬 Research and Competitions
 
+### MedGemma Forensic Agent: Detecting Medical Deepfakes  
+**MedGemma 1.5 (4B) | LoRA (PEFT) | 4-bit Quantization | Hugging Face**  
+* Fine-tuned Google's MedGemma 1.5 (4B) vision-language model using PEFT/LoRA and 4-bit NF4 quantization to detect and localize Stable Diffusion/CT-GAN generative injections in CT/MRI scans.
+* Achieved 94.3% forgery detection accuracy with a 3.2% false positive rate (0.34s inference time), deploying an interactive clinical forensic dashboard via Hugging Face Spaces.  
+📊 **[Kaggle Writeup & Code](https://www.kaggle.com/code/okeoluwanifemi/medgemma-forensic-agent-deepfake-detection)** | 🤖 **[Hugging Face Model](https://huggingface.co/oke39/medgemma-4b-forensic-agent)** | 🖥️ **[Live Dashboard](https://huggingface.co/spaces/oke39/MedGemma-Forensic-Dashboard)**
+
+---
+
 ### NFL Big Data Bowl Player Movement Prediction  
-Designed a novel metric called Ball Pursuit Efficiency (BPE) using ensemble deep learning models (XGBoost, LSTM, Transformer) on NFL player tracking data.  
+**Ensemble Learning | XGBoost | LSTM | Transformers**  
+* Designed a novel metric called Ball Pursuit Efficiency (BPE) using ensemble deep learning models on NFL spatial player tracking data.  
 📊 **[Kaggle Notebook](https://www.kaggle.com/code/okeoluwanifemi/nfl-prediction)** | 🎥 **[Video Demo](https://youtu.be/M6CLhlZFp0M)**
 
 ---
@@ -65,7 +76,8 @@ Designed a novel metric called Ball Pursuit Efficiency (BPE) using ensemble deep
 ## 🌍 Open Source and Model Fine-Tuning
 
 ### Secure Code Agent (Llama-3 8B)  
-Fine-tuned Llama-3 to detect and fix common security vulnerabilities in Python code, achieving an 88 percent Bandit static analysis pass rate.  
+**LLM Fine-Tuning | Cybersecurity**  
+* Fine-tuned Llama-3 to detect and fix common security vulnerabilities in Python code, achieving an 88 percent Bandit static analysis pass rate.  
 🤖 **[Hugging Face Model](https://huggingface.co/oke39/llama3-8b-secure-code)** | 👤 **[Hugging Face Profile](https://huggingface.co/oke39)**
 
 ---
