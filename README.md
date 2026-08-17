@@ -1,99 +1,89 @@
-# Hi, I'm Oke Precious Oluwanifemi
+# Hi, I'm Oke Precious Oluwanifemi 👋🏽
 
- Machine Learning Engineer focused on production-ready AI systems
+**Machine Learning Engineer focused on production-ready AI systems**
 
 I design and deploy end-to-end machine learning systems, covering data processing, model development, API serving, deployment, and monitoring. My work emphasizes scalability, explainability, and real-world impact.
 
 ---
 
-## Core Skills
+## 🛠️ Core Skills
 
 ### Machine Learning and AI
-- Deep Learning (CNNs, LSTMs, Transformers)
-- Recommender Systems (Collaborative, Content-Based, Sequential, Reinforcement Learning)
-- NLP and LLMs (RAG, Fine-tuning, LangChain, Hugging Face)
-- Explainable AI (SHAP)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNNs%20%7C%20LSTMs%20%7C%20Transformers-blue)
+![Recommender Systems](https://img.shields.io/badge/Recommender%20Systems-RL%20%7C%20Collaborative-orange)
+![NLP](https://img.shields.io/badge/NLP%20%26%20LLMs-RAG%20%7C%20LangChain%20%7C%20HuggingFace-yellow)
+![XAI](https://img.shields.io/badge/Explainable%20AI-SHAP-success)
 
 ### Backend and MLOps
-- FastAPI, Flask, REST APIs
-- Docker, MLflow, GitHub Actions
-- Model serving and inference optimization
+![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-Backend-000000?logo=flask)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-blueviolet)
+![Vector DB](https://img.shields.io/badge/Databases-Pinecone%20%7C%20Firestore-lightgrey)
 
 ### Languages and Tools
-- Python, TensorFlow, PyTorch
-- Pandas, NumPy, Scikit-learn
-- Git, Linux, Jupyter
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-red)
+![Data Science](https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy%20%7C%20Scikit--learn-150458)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+### Student Success Chatbot (ACE Bot)  
+**LangChain RAG | Pinecone Vector DB | XGBoost | Flask | Docker**  
+* Architected a Dockerized LangChain/Pinecone RAG pipeline and an XGBoost predictive engine (94.4% accuracy, 0.88 AUC) to automate multi-modal evaluation and performance forecasting for 30+ students at Babcock University.
+* Engineered a resilient, sub-200ms TTS streaming service bypassing rate limits via automated API rotation, and calibrated the LLM against Bloom’s Taxonomy to guarantee cognitively balanced pedagogical responses.  
+🔗 **[GitHub Repo](https://github.com/okefemi12/student-success-chatbot)** | 🔗 **[Live Application](https://student-success-backend.onrender.com/test)**
+
+---
 
 ### Multi-Model AI E-Commerce Recommender System  
-Hybrid Reinforcement Learning and Transformers | FastAPI | Docker | MLflow  
-
-Production-grade recommendation engine optimizing long-term user value through a multi-stage pipeline combining collaborative filtering, content-based models, sequential transformers, and a reinforcement learning decision layer.
-
-GitHub: https://github.com/okefemi12/ecommerce-recommender-system  
-Live Demo: https://hybrid-rec.vercel.app/
+**Hybrid Reinforcement Learning | Transformers | FastAPI | Docker | MLflow**  
+* Production-grade recommendation engine optimizing long-term user value through a multi-stage pipeline combining collaborative filtering, content-based models, sequential transformers, and a reinforcement learning decision layer.  
+🔗 **[GitHub Repo](https://github.com/okefemi12/ecommerce-recommender-system)** | 🔗 **[Live Demo](https://hybrid-rec.vercel.app/)**
 
 ---
 
 ### Credit-Scout: AI Risk Engine and Compliance Reporter  
-LSTM | SHAP | LLMs | Streamlit  
-
-Real-time financial fraud detection system combining deep learning with explainable AI and automated compliance reporting for non-technical stakeholders.
-
-GitHub: https://github.com/okefemi12/credit-scout-risk-engine
+**LSTM | SHAP | LLMs | Streamlit**  
+* Real-time financial fraud detection system combining deep learning with explainable AI and automated compliance reporting for non-technical stakeholders.  
+🔗 **[GitHub Repo](https://github.com/okefemi12/credit-scout-risk-engine)**
 
 ---
 
-### Student Success Chatbot (ACE Bot)  
-Flask | RAG | Firestore | OCR | Docker  
-
-AI-powered academic assistant supporting PDF and image uploads, secure user sessions, chat history storage, and student performance prediction.
-
-GitHub: https://github.com/okefemi12/student-success-chatbot  
-API Test: https://student-success-backend.onrender.com/test
-
----
-
-## Research and Competitions
+## 🔬 Research and Competitions
 
 ### NFL Big Data Bowl Player Movement Prediction  
-
-Designed a novel metric called Ball Pursuit Efficiency (BPE) using ensemble deep learning models (XGBoost, LSTM, Transformer) on NFL player tracking data.
-
-Kaggle Notebook: https://www.kaggle.com/code/okeoluwanifemi/nfl-prediction  
-Video Demo: https://youtu.be/M6CLhlZFp0M
+Designed a novel metric called Ball Pursuit Efficiency (BPE) using ensemble deep learning models (XGBoost, LSTM, Transformer) on NFL player tracking data.  
+📊 **[Kaggle Notebook](https://www.kaggle.com/code/okeoluwanifemi/nfl-prediction)** | 🎥 **[Video Demo](https://youtu.be/M6CLhlZFp0M)**
 
 ---
 
-## Open Source and Model Fine-Tuning
+## 🌍 Open Source and Model Fine-Tuning
 
 ### Secure Code Agent (Llama-3 8B)  
-
-Fine-tuned Llama-3 to detect and fix common security vulnerabilities in Python code, achieving an 88 percent Bandit static analysis pass rate.
-
-Hugging Face Model: https://huggingface.co/oke39/llama3-8b-secure-code  
-Hugging Face Profile: https://huggingface.co/oke39
+Fine-tuned Llama-3 to detect and fix common security vulnerabilities in Python code, achieving an 88 percent Bandit static analysis pass rate.  
+🤖 **[Hugging Face Model](https://huggingface.co/oke39/llama3-8b-secure-code)** | 👤 **[Hugging Face Profile](https://huggingface.co/oke39)**
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- IBM Machine Learning Professional Certificate  
-  https://coursera.org/share/95d5dcd25e20acf902f38222ae6a4b33
-
----
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/oluwanifemi-precious-oke-135623321/
-- GitHub: https://github.com/okefemi12
-- Kaggle: https://www.kaggle.com/okeoluwanifemi
-- Portfolio : https://my-portfolio-phi-one-10.vercel.app/
+- **IBM Machine Learning Professional Certificate**  
+  🔗 [View Credential](https://coursera.org/share/95d5dcd25e20acf902f38222ae6a4b33)
 
 ---
 
-Building scalable machine learning systems, not just models.
+## 📫 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/oluwanifemi-precious-oke-135623321/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?logo=vercel)](https://my-portfolio-phi-one-10.vercel.app/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://www.kaggle.com/okeoluwanifemi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/okefemi12)
+
+<br>
+
+> *Building scalable machine learning systems, not just models.*
