@@ -18,8 +18,10 @@ I design and deploy end-to-end machine learning systems, covering data processin
 ![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-Backend-000000?logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
+![GCP](https://img.shields.io/badge/GCP-Cloud_Computing-4285F4?logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-blueviolet)
+![SQL](https://img.shields.io/badge/SQL-Relational_DB-4479A1?logo=postgresql&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Databases-Pinecone%20%7C%20Firestore-lightgrey)
 
 ### Languages and Tools
