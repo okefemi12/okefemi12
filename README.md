@@ -36,12 +36,10 @@ I design and deploy end-to-end machine learning systems, covering data processin
 ## 🚀 Featured Projects
 
 ### Student Success Chatbot (ACE Bot)  
-**CREDENTIALS**: **Email**: acebot.demo2026@gmail.com  **Password**: 123456
-
 **LangChain RAG | Pinecone Vector DB | XGBoost | Flask | Docker**  
 * Architected a Dockerized LangChain/Pinecone RAG pipeline and an XGBoost predictive engine (94.4% accuracy, 0.88 AUC) to automate multi-modal evaluation and performance forecasting for 30+ students at Babcock University.
 * Engineered a resilient, sub-200ms TTS streaming service bypassing rate limits via automated API rotation, and calibrated the LLM against Bloom’s Taxonomy to guarantee cognitively balanced pedagogical responses.  
-🔗 **[GitHub Repo](https://github.com/okefemi12/student-success-chatbot)** | 🔗 **[Live Application](https://student-success-backend.onrender.com/test)**
+🔗 **[GitHub Repo](https://github.com/okefemi12/student-success-chatbot)** | 🔗 **[Live Application](https://student-success-backend.onrender.com/test)**  (**CREDENTIALS**: **Email**: acebot.demo2026@gmail.com  **Password**: 123456)
 
 ---
 
