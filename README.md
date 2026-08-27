@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer focused on production-ready AI systems**
 
-I design and deploy end-to-end machine learning systems, covering data processing, model development, API serving, deployment, and monitoring. My work emphasizes scalability, explainability, and real-world impact.
+I design and deploy end-to-end machine learning systems, covering data processing, model development, API serving, cloud deployment, and persistence. My work emphasizes scalability, explainability, and real-world impact.
 
 ---
 
@@ -14,14 +14,15 @@ I design and deploy end-to-end machine learning systems, covering data processin
 ![NLP](https://img.shields.io/badge/NLP%20%26%20LLMs-RAG%20%7C%20LangChain%20%7C%20HuggingFace-yellow)
 ![XAI](https://img.shields.io/badge/Explainable%20AI-SHAP-success)
 
-### Backend and MLOps
+### Backend, Cloud, and MLOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-Backend-000000?logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
+![Azure](https://img.shields.io/badge/Azure-Container_Apps-0089D6?logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-Cloud_Computing-4285F4?logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-blueviolet)
-![SQL](https://img.shields.io/badge/SQL-Relational_DB-4479A1?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational_DB-4169E1?logo=postgresql&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Databases-Pinecone%20%7C%20Firestore-lightgrey)
 
 ### Languages and Tools
@@ -34,6 +35,15 @@ I design and deploy end-to-end machine learning systems, covering data processin
 ---
 
 ## 🚀 Featured Projects
+
+### Credit-Scout: AI Risk Engine and Compliance Reporter  
+**FastAPI | TensorFlow (LSTM) | SHAP | Groq LLMs | PostgreSQL | Azure Container Apps | Docker**  
+* Architected and deployed a real-time financial risk assessment platform hosted on Azure Container Apps with an optimized **~630ms average end-to-end response latency**.
+* Integrated an asynchronous FastAPI backend with a persistent PostgreSQL database (`SQLAlchemy`) to automate transactional risk classification and log secure compliance audit trails.
+* Combined SHAP Explainable AI feature attributions with Groq-powered LLMs to dynamically generate automated regulatory "Notices of Adverse Action".  
+🔗 **[GitHub Repo](https://github.com/okefemi12/credit-scout-risk-engine)** | 🌐 **[Live Azure Application](https://credit-scout-app.purpledesert-dd796257.southafricanorth.azurecontainerapps.io/)**
+
+---
 
 ### Student Success Chatbot (ACE Bot)  
 **LangChain RAG | Pinecone Vector DB | XGBoost | Flask | Docker**  
@@ -48,13 +58,6 @@ I design and deploy end-to-end machine learning systems, covering data processin
 * Production-grade recommendation engine optimizing long-term user value through a multi-stage pipeline combining collaborative filtering, content-based models, sequential transformers, and a reinforcement learning decision layer.
 * Implemented robust MLOps practices, utilizing Docker for containerization and GitHub Actions for automated CI/CD workflows.  
 🔗 **[GitHub Repo](https://github.com/okefemi12/ecommerce-recommender-system)** | 🔗 **[Live Demo](https://hybrid-rec.vercel.app/)**
-
----
-
-### Credit-Scout: AI Risk Engine and Compliance Reporter  
-**LSTM | SHAP | LLMs | Streamlit**  
-* Real-time financial fraud detection system combining deep learning with explainable AI and automated compliance reporting for non-technical stakeholders.  
-🔗 **[GitHub Repo](https://github.com/okefemi12/credit-scout-risk-engine)**
 
 ---
 
